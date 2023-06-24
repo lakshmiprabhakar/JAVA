@@ -1,6 +1,6 @@
 public class simple {
     public static void main(String args[]){
-        System.out.print("bloody java");
+        System.out.print("bloody java is not simple");
     }
     
 }
