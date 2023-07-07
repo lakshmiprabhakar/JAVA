@@ -59,20 +59,20 @@ public class Score {
 
 //output-------------------
 
-javac Score.java
-java Score
-Enter Student name = yooo
+// javac Score.java
+// java Score
+// Enter Student name = yooo
 
-Enter Grade = B+
+// Enter Grade = B+
 
-Enter Sports name = cricket
+// Enter Sports name = cricket
 
-Enter Rating out of 10 = 7
+// Enter Rating out of 10 = 7
 
-Enter Overall Percentage = 79
+// Enter Overall Percentage = 79
 
-Name = yooo
-Grade = B+
-Sports Name = cricket
-Rating out of 10 = 7
-Overall Percentage = 79.0%
+// Name = yooo
+// Grade = B+
+// Sports Name = cricket
+// Rating out of 10 = 7
+// Overall Percentage = 79.0%
